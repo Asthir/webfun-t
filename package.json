@@ -1,0 +1,23 @@
+{
+  "name": "webfun-t",
+  "version": "1.0.0",
+  "description": "it is a css framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Asthir/webfun-t.git"
+  },
+  "keywords": [
+    "css",
+    "framework"
+  ],
+  "author": "webfun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Asthir/webfun-t/issues"
+  },
+  "homepage": "https://github.com/Asthir/webfun-t#readme"
+}
